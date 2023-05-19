@@ -4,6 +4,9 @@ The StudentRegistrationForm is a robust Java Swing application designed to strea
 
 Comprehensive Registration Form: The application presents a well-structured registration form that prompts users to enter essential details about the student. These details typically include the student's name, age, date of birth, gender, address, contact number, email address, and any additional fields as per the specific requirements.
 
+![image](https://github.com/Ishan-Pal/StudentRegistrationForm/assets/130207814/0c3de308-7357-450a-9341-6f65c77ebde1)
+
+
 Form Validation: To ensure data accuracy and completeness, the StudentRegistrationForm incorporates form validation mechanisms. It validates the input fields to ensure that required information is provided in the correct format. For example, it can check for valid email addresses, proper age formatting, or mandatory fields that need to be filled out.
 
 Data Storage: The application includes functionality to store the registered student information. It can utilize a database or file system to store the data securely and reliably. This allows for easy retrieval, updating, and management of student records.
